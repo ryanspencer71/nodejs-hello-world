@@ -1,7 +1,10 @@
 # nodejs-hello-world
 nodejs getting started
 
-Start NodeJS Applicaiton
+1. Create a New NodeJS Applicaiton
+
 ```bash
-npm init
+$ mkdir newApp
+$ cd newApp
+$ npm init 
 ```
