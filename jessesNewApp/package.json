@@ -1,0 +1,17 @@
+{
+  "name": "jesses-new-app",
+  "version": "0.0.1",
+  "description": "A teaching experiment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "hello",
+    "world"
+  ],
+  "author": "J Spencer <jspenc72@gmail.com> (https://github.com/jspenc72)",
+  "license": "ISC"
+}
