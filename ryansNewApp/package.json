@@ -1,0 +1,11 @@
+{
+  "name": "ryan-new-app",
+  "version": "0.0.1",
+  "description": "a learning experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ryanspencer71",
+  "license": "ISC"
+}
