@@ -1,0 +1,14 @@
+{
+  "name": "jesses-news-article-getter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J Spencer <jspenc72@gmail.com> (https://github.com/jspenc72)",
+  "license": "ISC",
+  "dependencies": {
+    "google-finance": "^0.1.4"
+  }
+}

@@ -10,3 +10,9 @@ $ mkdir newApp
 $ cd newApp
 $ npm init 
 ```
+
+3. Install Dependencies
+
+```bash
+$ npm install 
+```
